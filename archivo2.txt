@@ -1,1 +1,2 @@
 Esta es la primera linea en archivo 2
+añadida linea 2
